@@ -39,4 +39,6 @@ Moreover, I was part of the **Data Analysis Research Group**, where I had the op
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miniicow&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miniicow&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miniicow&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Miniicow&label=Profile+Views&color=blue&style=flat)
