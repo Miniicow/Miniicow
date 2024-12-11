@@ -1,6 +1,6 @@
 # Hello and welcome! 👋
 
-I'm Manuela from Colombia, a sixth-semester student of Data Engineering and Artificial Intelligence.
+I'm Manuela from Colombia, a seventh-semester student of Data Engineering and Artificial Intelligence.
 
 Throughout my studies, I have had the opportunity to develop projects focused on data analysis, which has allowed me to achieve academic excellence. Additionally, I have a strong passion for taking extra courses in my free time. I am enthusiastic about projects with social impact that help me develop my skills, and as a fun fact, I really like cows. 🐄
 
